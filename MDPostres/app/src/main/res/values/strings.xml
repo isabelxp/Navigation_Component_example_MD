@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MD Postres</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="products_title">Productos</string>
+
+
+    <string name="item_product_photo_description">hello</string>
+    <string name="item_product_name_hint">Nombre del producto</string>
+
+    <string name="car_price">$1.2</string>
+    <string name="car_sum">Total = $%1$.2f</string>
+    <string name="car_title">Carrito de compras</string>
+
+
+    <string name="text_pay">pagar</string>
+    <string name="back">atràs</string>
+
+
+    <string name="confirmation_message">Sus alimentos llegaran pronto, gracias por su compra.</string>
+    <string name="confirmation_status">Pago exitoso!</string>
+    <string name="confirmation_done">Listo</string>
+    <string name="confirmation_title">Pago</string>
+    <string name="confirmation_title_alt">Pago (by Id)</string>
+
+
+    <string name="product_check_list">Pedidos:</string>
+    <string name="product_add_car">Añadir</string>
+    <string name="product_title">Productos</string>
+    <string name="bottom_sheet_title">¿Salir de MD Postres?</string>
+    <string name="bottom_sheet_exit">Salir</string>
+    <string name="bottom_sheet_cancelar">Cancelar</string>
+
+
+</resources>
